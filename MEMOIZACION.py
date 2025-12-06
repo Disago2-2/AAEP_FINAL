@@ -16,17 +16,6 @@ distancias = [
 
 ciudad_inicio = 0  # Lima
 
-
-
-
-
-
-
-
-
-
-
-
 def tsp_top_down_memo(distancias, nombres_ciudades=None, ciudad_inicio=0):
     """
     TSP usando Programación Dinámica Top-Down (recursión + memoización explícita).

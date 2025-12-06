@@ -18,21 +18,6 @@ ciudad_inicio = 0  # Lima
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def tsp_recursivo_sin_memo(distancias, nombres_ciudades=None, ciudad_inicio=0):
     """
     TSP usando búsqueda recursiva (backtracking) SIN memoización.

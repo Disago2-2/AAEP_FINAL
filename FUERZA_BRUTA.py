@@ -19,12 +19,6 @@ distancias = [
 ciudad_inicio = 0  # Lima
 
 
-
-
-
-
-
-
 def calcular_costo_ruta(ruta, distancias):
     """
     Suma las distancias de la ruta cerrada:
